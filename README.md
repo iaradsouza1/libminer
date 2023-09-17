@@ -6,6 +6,8 @@
 The goal for this package is to make you understand your library better.
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/iaradsouza1/libminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/iaradsouza1/libminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to …
